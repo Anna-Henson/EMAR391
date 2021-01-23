@@ -48,5 +48,31 @@ By the end of this class students should be fluent in the major themes of augmen
 | Lecture 1 |  VR Through History & Contemporary Trends |
 | Lecture 2 |  Intro to Content Creation 101 & Content Ecosystem | 
 
+---
+
+## Grading & Assignments
+
+#### Grading Model
+| Grade |   Percentage  |        Performance       |
+|-------|---------------|--------------------------|
+|A      | 93% to 100%   |         Excellent        |
+|A-     | 90% to 92%    |           Great          | 
+|B+     | 87% to 89%    |           Great          |
+|B      | 83% to 86%    |           Good           |
+|B-     | 79% to 82%    |           Good           |
+|C+     | 76% to 78%    |           Good           |
+|C      | 73% to 75%    |      Unsatisfactory      |
+|C-     | 70% to 72%    |      Unsatisfactory      |
+|F      | 70% and below |       Unacceptable       |
+
+#### Grade Allocation
+|            Assignment           | Percentage Value |
+|---------------------------------|------------------|
+| In-class Participation          |        5%        |
+| Discussion Posts                |        15%       |
+| Homework Assignments            |        40%       |
+| Midterm Exam                    |        10%       |
+| Final Project                   |        30%       |
+| Total                           |       100%       |
 
 
