@@ -154,7 +154,9 @@ c. In cases where a faculty member’s finding of academic dishonesty is dispute
 d. The provision of this Student Code relating to academic dishonesty and the procedures applicable thereto do not apply to law students in the College of Law, who are governed by the Honor Code of the College of Law, which may be found on the College of Law’s official website.
 
 ## Accommodations for Students with Disabilities Policy
-The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner. SSD contact information:  232 Canfield Admin. Bldg.; 402-472-3787
+The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner. 
+
+SSD contact information:  232 Canfield Admin. Bldg.; 402-472-3787
 
 ## COVID Guidelines
 
