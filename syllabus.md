@@ -70,26 +70,25 @@ By the end of this class students should be fluent in the major themes of augmen
 Contributions to class discussions and active participation in both individual and small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on project-based learning through both solo and collaborative projects, and you are expected to contribute as a responsible member of our design community on an individual and group level. See the participation evaluation in the Grade Allocation table below for more information.
 
 #### Grade Allocation
-|            Assignment           | Percentage Value |
-|---------------------------------|------------------|
-| In-class Participation          |        5%        |
-| Discussion Posts                |        15%       |
-| Homework Assignments            |        40%       |
-| Midterm Exam                    |        10%       |
-| Final Project                   |        30%       |
-| Total                           |       100%       |
+|            Assignment       | Percentage Value |
+|-----------------------------|------------------|
+| In-class Participation      |        5%        |
+| Discussion Posts            |        15%       |
+| Homework Assignments        |        40%       |
+| Midterm Exam                |        10%       |
+| Final Project               |        30%       |
+| Total                       |       100%       |
 
 #### Assignments & Projects
 |            Due Date          | Assignment |
 |---------------------------------|------------------|
-| 02/xx/21          |       Unity + VR Technical Setup |
-| 02/xx/21          |       VR Demo Room               |
-| 02/xx/21          |       Worldbuilding in Unity     |
-| 02/xx/21          |       Interaction + MRTK         |
-| 02/xx/21          |       Haptics & Audio Prototype  |
-| 02/xx/21          |       2D UI Design               |
-| 02/xx/21          |       Maquette Prototype         |
-| 05/xx/21          |       Final Project              |
+| 02/xx/21          |    Unity + VR Technical Setup        |
+| 02/xx/21          |    VR Demo Room                      |
+| 02/xx/21          |    Worldbuilding in Unity            |
+| 02/xx/21          |    Storyboarding & Paper Prototyping |
+| 02/xx/21          |    Interaction Prototype             |
+| 02/xx/21          |    Maquette Prototype                |
+| 05/xx/21          |    Final Project                     |
 
 ---
 
