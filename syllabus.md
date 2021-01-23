@@ -20,8 +20,6 @@ Some time in the class will be dedicated to understanding how virtual reality cr
 
 By the end of this class students should be fluent in the major themes of augmented and virtual reality, including several advanced topics like perception and ethics.. Virtual and augmented reality is a nascent medium with abundant connections (and dependencies) to other disciplines. No student is expected to master all aspects of designing & developing for XR within the scope of this course; however, this class is designed to instill a swath of practical knowledge and creative inspiration through reading, critical discussion, hands-on projects, and practice-based research.Students are expected to be self-motivated in exploring online learning resources (articles, guides, tutorials, etc) and experimenting with third-party AR/VR apps and tools. 
 
----
-
 ## Typical Topics Covered 
 
 * Why does XR matter and why should you care? What is VR good for, and what can be done in VR that cannot be done with any other type of media? How is it different from 360-degree video content? 
@@ -36,8 +34,13 @@ By the end of this class students should be fluent in the major themes of augmen
 * How are terms like agency, embodiment, and presence used to evaluate immersive experiences? 
 * How do connected experiences (social VR) factor into the big picture?
 
----
+## Class Schedule
 
+### Week 1 - Introduction
+| #  |  Description  |
+|---|---|
+| Lecture 1 |  Class Overview & Intro |
+| Lecture 2 | The Challenges of VR & Current Technology | 
 
 
 
