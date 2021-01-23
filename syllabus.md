@@ -52,6 +52,7 @@ By the end of this class students should be fluent in the major themes of augmen
 
 ## Grading & Assignments
 
+
 #### Grading Model
 | Grade |   Percentage  |        Performance       |
 |-------|---------------|--------------------------|
@@ -65,6 +66,9 @@ By the end of this class students should be fluent in the major themes of augmen
 |C-     | 70% to 72%    |      Unsatisfactory      |
 |F      | 70% and below |       Unacceptable       |
 
+#### Class Participation
+Contributions to class discussions and active participation in both individual and small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on project-based learning through both solo and collaborative projects, and you are expected to contribute as a responsible member of our design community on an individual and group level. See the participation evaluation in the Grade Allocation table below for more information.
+
 #### Grade Allocation
 |            Assignment           | Percentage Value |
 |---------------------------------|------------------|
@@ -75,4 +79,53 @@ By the end of this class students should be fluent in the major themes of augmen
 | Final Project                   |        30%       |
 | Total                           |       100%       |
 
+
+---
+
+## Retention of Work
+The Emerging Media Arts program has the right to retain any student work, either in part or in its entirety, for display, accreditation, documentation, recruitment, or any other educational or legal purpose. Students are required to produce a cumulative digital portfolio that documents and organizes all work throughout the semester, as specified by the instructor of their section. This digital portfolio should be composed of presentation-quality media (diagrams, drawings, text, video, and other documentation), submitted through the Canvas website. 
+Resources for Students Seeking Mental Health Help
+I do not distinguish between physical and mental health needs and know both are essential to successful time at UNL. I know that time we are in, for reasons of COVID and beyond, can be particularly stressful.  Please do not hesitate to discuss with me any concerns, and also to utilize the University of Nebraska’s Student Mental 
+* Health Resources: https://executivevc.unl.edu/faculty/leadership-development/tipsheets/student-mental-health-resources
+* CAPS website: https://health.unl.edu/caps/services
+* SSD website: https://www.unl.edu/ssd/content/accommodations
+
+## Academic Integrity
+
+Academc dishonesty will not be tolerated in this course.  Any instances will result in an automatic grade of F in the course and possible disciplinary action under the Student Code of Conduct (https://studentconduct.unl.edu/student-code-conduct). For information on the University’s policy on academic dishonesty, please refer to the current Undergraduate Bulletin (https://registrar.unl.edu/academic-honesty).
+
+Any student found to have committed or to have attempted to commit the following misconduct is subject to the disciplinary sanctions outlined in Article IV:
+ 
+1.  Acts of academic dishonesty, including but not limited to the following:
+ 
+1a. Cheating:  Copying or attempting to copy from an academic test or examination of another student; using or attempting to use unauthorized materials, information, notes, study aids or other devices for an academic test, examination or exercise; engaging or attempting to engage the assistance of another individual in misrepresenting the academic performance of a student; or communication information in an unauthorized manner to another person for an academic test, examination or exercise.
+ 
+1b. Fabrication or Falsification:  Falsifying or fabricating any information or citation in any academic exercise, work, speech, research, test or examination.  Falsification is the alteration of information, while fabrication is the invention or counterfeiting of information.
+ 
+1c. Plagiarism:  Presenting the work of another as one’s own (i.e., without proper acknowledgement of the source) and submitting examination, theses, reports, speeches, drawings, laboratory notes or other academic work in whole or in part as one’s own when such work has been prepared by another person or copied from another person.  Materials covered by this prohibition include, but are not limited to, text, video, audio, images, photographs, websites, electronic and online materials, and other intellectual property.
+ 
+1d. Abuse of Academic Materials:  Destroying, defacing, stealing, or making inaccessible library or other academic resource material.
+ 
+1e. Complicity in Academic Dishonesty:  Helping or attempting to help another student to commit an act of academic dishonesty.
+ 
+1f. Falsifying Grade Reports:  Changing or destroying grades, scores or marking on an examination or in a faculty member’s records.
+ 
+1g. Impermissible Collaboration:  Collaborating on any academic exercise, work, speech, test or examination unless expressly authorized by the faculty member.  It is the obligation of the student to know whether collaboration is permitted.
+ 
+1h. Misrepresentation to Avoid Academic Work:  Misrepresentation by fabrication an otherwise justifiable excuse such as illness, injury, accident, etc., in order to avoid or delay timely submission of academic work or to avoid or delay the taking of a test or examination.
+ 
+1i. Other:  Academic units and members of the faculty may prescribe and give students prior notice of additional standards of conduct for academic honesty in a particular course, and violation of any such standard of conduct shall constitute misconduct under this Student Code and the University Disciplinary Procedures.
+ 
+Any student found guilty of academic dishonesty may be subject to both academic and disciplinary sanctions.
+ 
+a. In cases where a faculty member finds that a student has committed any act of academic dishonesty, the faculty member may, in the exercise of his or her professional judgment, impose an academic sanction as severe as giving the student a failing grade in the course.  Before imposing an academic sanction the faculty member shall first attempt to discuss the matter with the student.  If deemed necessary by either the faculty member or the student, the matter may be brought to the attention of the student’s major adviser, the faculty member’s department chairperson or head, or the dean of the college in which the student is enrolled.  When academic sanction is imposed which causes the student to receive a lowered course grade, the faculty member shall make a report in writing of the facts of the case and the academic sanction imposed against the student to the faculty member’s department chairperson or head and to the Conduct Officer.  The student shall be provided with a copy of this report.  Further, the faculty member may recommend the institution of disciplinary proceedings against the student for violation of this Student Code, if the faculty member in the exercise of his or her professional judgment believes that such action is warranted.
+ 
+b. In cases where a faculty member’s finding of academic dishonesty is admitted by the student and an academic sanction is imposed by the faculty member, which the student believes to be too severe, the student shall have the right to appeal the severity of the academic sanction through the applicable grade appeal procedure.
+ 
+c. In cases where a faculty member’s finding of academic dishonesty is disputed by the student, the matter shall be referred to the Conduct Officer for disposition in accordance with the University Disciplinary Procedures.  Any academic sanction imposed by the faculty member shall be held in abeyance pending a final decision under the University Disciplinary Procedures.  If it is determined through these procedures that the student did not commit academic dishonesty, the faculty member’s academic sanction shall be set aside.  If it is determined that the student committed academic dishonesty, the faculty member’s academic sanction shall be imposed in addition to any disciplinary sanction which may be imposed under the University Disciplinary Procedures
+ 
+d. The provision of this Student Code relating to academic dishonesty and the procedures applicable thereto do not apply to law students in the College of Law, who are governed by the Honor Code of the College of Law, which may be found on the College of Law’s official website.
+
+## Accommodations for Students with Disabilities Policy
+The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner. SSD contact information:  232 Canfield Admin. Bldg.; 402-472-3787
 
