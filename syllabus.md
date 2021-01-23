@@ -1,5 +1,7 @@
 # EMAR 391 - Creating Augmented Worlds (Spring 2021)
 
+*This syllabus may be subject to change during the course*
+
 [Professor Anna Henson](ahenson4@unl.edu)
 
 Johnny Carson Center for Emerging Media Arts
@@ -11,6 +13,7 @@ Johnny Carson Center for Emerging Media Arts
 ---
 
 ## Course Summary 
+
 This course offers a “big picture” introduction to the possibilities offered by virtual reality, and discusses the broader universe of augmented, and mixed reality (colloquially called XR or ‘extended reality’ by some). We will introduce the concepts & vocabulary of this new media and investigate its intersection with other established disciplines including human-computer interaction, user experience, cognitive and social psychology, theatre, and game design. This class is both theoretical and practical, emphasizing the ability to think deeply about the why and not simply the how. The course has no prerequisites other than the Emerging Media Arts (EMA) major. The Carson Center will provide each student one HP Reverb G1 VR headset for the duration of the semester. This course will be taught remotely but synchronously, meeting both on Zoom and in a social VR application. 
 
 In this class, we will work to understand both the opportunities and challenges of virtual reality, while learning to creatively problem-solve its present-day technological limitations. The coursework includes a mixture of reading, writing, active listening, critical discussion, and creative assignments. We will examine the attributes of popular VR applications and use this knowledge to build small, lightweight prototypes in Unity and Mozilla Hubs. 3D content creation is not a focus of this class, however we will construct new environments from existing asset sources (e.g. the Unity Store, Sketchfab, etc). We will emphasize the need to be a generalist when prototyping VR experiences early in the course, but learn to value specialization as we come together as a VR design studio in the final weeks of the class. 
@@ -52,7 +55,6 @@ By the end of this class students should be fluent in the major themes of augmen
 
 ## Grading & Assignments
 
-
 #### Grading Model
 | Grade |   Percentage  |        Performance       |
 |-------|---------------|--------------------------|
@@ -68,6 +70,12 @@ By the end of this class students should be fluent in the major themes of augmen
 
 #### Class Participation
 Contributions to class discussions and active participation in both individual and small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on project-based learning through both solo and collaborative projects, and you are expected to contribute as a responsible member of our design community on an individual and group level. See the participation evaluation in the Grade Allocation table below for more information.
+
+It is essential that you attend class on Zoom You are expected to attend all class meetings and arrive on time. In order to accommodate students who may need extra time to commute from a class immediately prior to this class, attendance will be taken ten (10) minutes after the scheduled start time of the class. Anyone who arrives after the attendance is taken will be considered late. Three instances of tardiness will be equivalent to one unexcused absence.
+
+You will be expected to spend at LEAST 3 to 6 hours (per week) outside of class meeting times on your assignments and projects. It is important for you to practice (after class) what has been covered during class so that you may raise any questions or problems at the next class session.
+
+If you need any special accommodations or if circumstances arise that may affect your participation, please talk to me as soon as possible.
 
 #### Grade Allocation
 |            Assignment       | Percentage Value |
@@ -92,7 +100,16 @@ Contributions to class discussions and active participation in both individual a
 
 ---
 
+## Class Resources
+
+#### Materials
+
+#### Discord
+
+---
+
 ## Retention of Work
+
 The Emerging Media Arts program has the right to retain any student work, either in part or in its entirety, for display, accreditation, documentation, recruitment, or any other educational or legal purpose. Students are required to produce a cumulative digital portfolio that documents and organizes all work throughout the semester, as specified by the instructor of their section. This digital portfolio should be composed of presentation-quality media (diagrams, drawings, text, video, and other documentation), submitted through the Canvas website. 
 Resources for Students Seeking Mental Health Help
 I do not distinguish between physical and mental health needs and know both are essential to successful time at UNL. I know that time we are in, for reasons of COVID and beyond, can be particularly stressful.  Please do not hesitate to discuss with me any concerns, and also to utilize the University of Nebraska’s Student Mental 
@@ -141,4 +158,16 @@ The University strives to make all learning experiences as accessible as possibl
 
 ## COVID Guidelines
 
-... 
+#### COVID-19 & masks in class: Required Use of Face Coverings for On-Campus Shared Learning Environments
+
+As of July 17, 2020 and until further notice, all University of Nebraska–Lincoln (UNL) faculty, staff, students, and visitors (including contractors, service providers, and others) are required to use a facial covering at all times when indoors except under specific conditions outlined in the COVID-19 face covering policy found at: https://covid19.unl.edu/face-covering-policy. This statement is meant to clarify classroom policies for face coverings:
+To protect the health and well-being of the University and wider community, UNL has implemented a policy requiring all people, including students, faculty, and staff, to wear a face covering that covers the mouth and nose while on campus. The classroom is a community, and as a community, we seek to maintain the health and safety of all members by wearing face coverings when in the classroom. Failure to comply with this policy is interpreted as a disruption of the classroom and may be a violation of UNL’s Student Code of Conduct.
+
+Individuals who have health or medical reasons for not wearing face coverings should work with the Office of Services for Students with Disabilities (for students) or the Office of Faculty/Staff Disability Services (for faculty and staff) to establish accommodations to address the health concern. Students who prefer not to wear a face covering should work with their advisor to arrange a fully online course schedule that does not require their presence on campus.
+As of January 12, 2021 (https://covid19.unl.edu/spring-testing) and until further notice, students, faculty, and staff are required to get a COVID-19 test during the week of January 19 – 24 and at least one additional, follow-up test around 10 days later. Proof of a negative test result (via the Safer Communities smart phone app or an official, printed pass from the Safer Communities web client) is required to gain entry to the Carson Center building. Students are also required to adhere to an updated Cornhusker Commitment (https://covid19.unl.edu/we-are-cornhusker-committed) for the Spring 2021 semester.
+
+#### Students in the classroom:
+
+1. If a student is not properly wearing a face covering, the instructor will remind the student of the policy and ask them to comply with it.
+2. If the student will not comply with the face covering policy, the instructor will ask the student to leave the classroom, and the student may only return when they are properly wearing a face covering.
+3. If the student refuses to properly wear a face covering or leave the classroom, the instructor will dismiss the class and will report the student to Student Conduct & Community Standards for misconduct, where the student will be subject to disciplinary action.
