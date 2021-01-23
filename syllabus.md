@@ -79,6 +79,17 @@ Contributions to class discussions and active participation in both individual a
 | Final Project                   |        30%       |
 | Total                           |       100%       |
 
+#### Assignments & Projects
+|            Due Date          | Assignment |
+|---------------------------------|------------------|
+| 02/xx/21          |       Unity + VR Technical Setup |
+| 02/xx/21          |       VR Demo Room               |
+| 02/xx/21          |       Worldbuilding in Unity     |
+| 02/xx/21          |       Interaction + MRTK         |
+| 02/xx/21          |       Haptics & Audio Prototype  |
+| 02/xx/21          |       2D UI Design               |
+| 02/xx/21          |       Maquette Prototype         |
+| 05/xx/21          |       Final Project              |
 
 ---
 
