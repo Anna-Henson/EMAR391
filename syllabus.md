@@ -37,10 +37,16 @@ By the end of this class students should be fluent in the major themes of augmen
 ## Class Schedule
 
 ### Week 1 - Introduction
-| #  |  Description  |
+|   |  Topic  |
 |---|---|
 | Lecture 1 |  Class Overview & Intro |
 | Lecture 2 | The Challenges of VR & Current Technology | 
+
+### Week 2 - Background
+|   |  Topic  |
+|---|---|
+| Lecture 1 |  VR Through History & Contemporary Trends |
+| Lecture 2 |  Intro to Content Creation 101 & Content Ecosystem | 
 
 
 
