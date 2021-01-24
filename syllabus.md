@@ -2,7 +2,7 @@
 
 *This syllabus may be subject to change during the course*
 
-[Professor Anna Henson](ahenson4@unl.edu)
+[Professor Anna Henson](mailto:ahenson4@unl.edu)
 
 Johnny Carson Center for Emerging Media Arts
 
