@@ -1,6 +1,12 @@
-# EMAR391
+# EMAR391 - Creating Augmented Worlds
 
-Syllabus and class materials for EMAR 391 Spring 2021
+Class materials for EMAR 391 Spring 2021
 
-[Syllabus](./syllabus.md)
-[Assignments](./assignments.md)
+## Syllabus
+[Syllabus on GitHub](./syllabus.md)
+
+## Assignments
+[Assignments on GitHub](./assignments.md)
+
+## UNL Canvas
+[Link TBD]()
