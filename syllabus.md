@@ -13,6 +13,9 @@ Johnny Carson Center for Emerging Media Arts
 *This syllabus may be subject to change during the course.*
 
 ---
+## A Note about Time & VR Setup: 
+
+This class meets twice a week for an hour and twenty minutes. That's less than three hours per week of scheduled class time. I want to empasize to you the importance of coming to class on time with your hardware charged, connected to your computer, functioning and ready to go. If we are going to meet in Social VR, please go visit the virtual location early, familiarize yourself, so you can arrive on time to class. VR technology can be tricky, clunky, problematic, even for experts, and setup can easily overtake the time you had set aside to "get work done." So, if we spend 20-30 min per class getting everyone online, we'll cut our class time down significantly and it'll just be a parade of setup and teardown each week. Get your hardware and software ready to go early, and it'll be smooth(ish) sailing. That's when the real fun begins!  
 
 ## Course Summary 
 
