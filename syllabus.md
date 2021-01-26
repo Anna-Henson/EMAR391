@@ -88,7 +88,7 @@ By the end of this class students should be fluent in the major themes of augmen
 ### Week 7 - XR as a Creative Medium
 |   |  Topic  |
 |---|---|
-| Lecture 1 | Cinematic XR, XR in Fine Art |  
+| Lecture 1 | Cinematic XR, XR in Fine Art & Performance |  
 | Lecture 2 | Prototyping AR using VR - Building XR in VR |
 
 ### Week 8 - Final Project Intro
