@@ -64,7 +64,7 @@ By the end of this class students should be fluent in the major themes of augmen
 |   |  Topic  |
 |---|---|
 | Lecture 1 | Social VR & Multiplayer Experiences + Avatars
-| Lecture 2 | Social VR & Interdisciplinary Use Cases
+| Lecture 2 | Social VR: Challenges & Opportunities
 
 ### Week 5 - Design & Interaction: Part 1
 |   |  Topic  |
