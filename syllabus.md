@@ -7,7 +7,7 @@ Johnny Carson Center for Emerging Media Arts
 **Course Format**: Remote Synchronous - Zoom & Social VR
 
 **Course Days/Times**: Tuesday and Thursday 3:30-4:50 PM CST
-Office Hours: Fridays or by appointment
+**Office Hours**: Fridays or by appointment
 
 *This syllabus may be subject to change during the course.*
 
