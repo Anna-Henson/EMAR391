@@ -130,8 +130,8 @@ By the end of this class students should be fluent in the major themes of augmen
 ### Week 14 - Finals Week
 |   |  Topic  |
 |---|---|
-| Final Project Presentation & Demo Day 1 |
-| Final Project Presentation & Demo Day 2 |
+| Activity | Final Project Presentation & Demo Day 1 |
+| Activity | Final Project Presentation & Demo Day 2 |
 
 
 ---
