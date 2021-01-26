@@ -8,13 +8,13 @@ Johnny Carson Center for Emerging Media Arts
 
 **Course Days/Times**: Tuesday and Thursday 3:30-4:50 PM CST
 
-*This syllabus may be subject to change during the course*
+*This syllabus may be subject to change during the course.*
 
 ---
 
 ## Course Summary 
 
-This course offers a “big picture” introduction to the possibilities offered by virtual reality and immersive 3D experiences, and discusses the broader universe of augmented and mixed reality (colloquially called XR or ‘extended reality’ by some). I will use the term XR often in this class. We will introduce the concepts & vocabulary of this new media and investigate its intersection with other established disciplines including human-computer interaction, user experience, cognitive and social psychology, theatre, game design, and pedagogy. This class is both theoretical and practical, emphasizing the ability to think deeply about the **why** and not simply the **how**. The course has no prerequisites other than the Emerging Media Arts (EMA) major. The Carson Center will provide each student one [HP Reverb G1 VR headset](https://support.hp.com/us-en/document/c06433655) for the duration of the semester (or other arrangement as discussed with me). This course will be taught remotely but synchronously, meeting both on Zoom and together inside a social VR application. In essence, we will be learning about VR from inside VR. Expect to spend 4-6 hours per week on coursework outside of class time. 
+This course offers a “big picture” introduction to the possibilities offered by virtual reality and immersive 3D experiences, and discusses the broader universe of augmented and mixed reality (colloquially called XR or ‘extended reality’ by some). I will use the term XR often in this class. We will introduce the concepts & vocabulary of this new media and investigate its intersection with other established disciplines including human-computer interaction, user experience, cognitive and social psychology, theatre, game design, and pedagogy. This class is both theoretical and practical, emphasizing the ability to think deeply about the *why* and not simply the *how*. The course has no prerequisites other than the Emerging Media Arts (EMA) major. The Carson Center will provide each student one [HP Reverb G1 VR headset](https://support.hp.com/us-en/document/c06433655) for the duration of the semester (or other arrangement as discussed with me). This course will be taught remotely but synchronously, meeting both on Zoom and together inside a social VR application. In essence, we will be learning about VR from inside VR. Expect to spend 4-6 hours per week on coursework outside of class time. 
 
 We will work to understand both the opportunities and challenges of virtual reality, while learning to creatively problem-solve its present-day technological limitations. One of the biggest current opportunities in XR is shared/multiplayer experiences, which will be a focus of the class. The coursework includes a mixture of play and improvisation, low to high fidelity prototyping, reading, writing, critical discussion, and creative assignments. We will build our design vocabulary by examining the attributes of popular VR applications and use this knowledge to build small, lightweight prototypes in Unity and one or more social VR applications, i.e. AltspaceVR and Mozilla Hubs. 3D modeling is not a focus of this class, however we will construct new environments from existing asset sources (e.g. the Unity Store, Sketchfab, etc). The course will include lightweight scripting in C#, and will make ample use of available scripts for prototyping. We will emphasize the need to be a generalist when prototyping VR experiences early in the course, but learn to value specialization as we come together as a VR design studio in the final weeks of the class. 
 
@@ -65,9 +65,64 @@ By the end of this class students should be fluent in the major themes of augmen
 | Lecture 2 | Social VR & Interdisciplinary Use Cases
 
 ### Week 5 - Design & Interaction: Part 1
+|   |  Topic  |
+|---|---|
 | Lecture 1 | Input Devices & Methodologies (Hand & Controller Tracking)
 | Lecture 2 | Affordances & User Experience Principles (Best Practices)
 
+### Week 6 - Design & Interaction: Part 2
+|   |  Topic  |
+|---|---|
+| Lecture 1 | Spatial Interfaces in 3D (3D UI, Gestural Interfaces, Laser pointing, Locomotion)
+| Lecture 2 | Interaction in Unity - Working Session
+
+### Week 7 - XR as a Creative Medium
+|   |  Topic  |
+|---|---|
+| Lecture 1: Cinematic XR, XR in Fine Art |  
+| Lecture 2: Prototyping AR using VR - Building XR in VR |
+
+### Week 8 - Final Project Intro
+|   |  Topic  |
+|---|---|
+| Lecture 1: Final  Project Intro |
+| Lecture 2: Final Project Brainstorm | 
+
+#### Week 9 - Design Studio A
+|   |  Topic  |
+|---|---|
+Lecture 1: Final Project Proposals Kickoff
+Lecture 2: Final Project Group Review - Working Session 
+
+### Week 10 - Design Studio B
+|   |  Topic  |
+|---|---|
+| Lecture 1: Final Project Progress Review |
+| Lecture 2: Special Topic: The Psychology of VR: Mel Slater and the “Three Illusion” theory: Place Illusion, Plausibility Illusion, and Embodiment Illusion | 
+
+### Week 11 - Design Studio C
+|   |  Topic  |
+|---|---|
+| Lecture 1: Final Project Progress Review |
+| Lecture 2: Special Topic: The Sounds of XR: Understanding the role of spatial audio in AR/VR |
+
+### Week 12 - Design Studio D
+|   |  Topic  |
+|---|---|
+| Lecture 1: Final Project Progress Review |
+| Lecture 2: Special Topic: Human Perception: Understanding Light: Depth, Motion, Color & Touch |
+
+### Week 13 - Design Studio E
+|   |  Topic  |
+|---|---|
+| Lecture 1: Final Project Progress Review |
+| Lecture 2: Special Topic: A Framework for Ethics & Privacy | 
+
+### Week 14 - Finals Week
+|   |  Topic  |
+|---|---|
+| Final Project Presentation & Demo Day 1 |
+| Final Project Presentation & Demo Day 2 |
 
 
 ---
