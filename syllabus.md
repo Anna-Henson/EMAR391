@@ -88,44 +88,44 @@ By the end of this class students should be fluent in the major themes of augmen
 ### Week 7 - XR as a Creative Medium
 |   |  Topic  |
 |---|---|
-| Lecture 1: Cinematic XR, XR in Fine Art |  
-| Lecture 2: Prototyping AR using VR - Building XR in VR |
+| Lecture 1 | Cinematic XR, XR in Fine Art |  
+| Lecture 2 | Prototyping AR using VR - Building XR in VR |
 
 ### Week 8 - Final Project Intro
 |   |  Topic  |
 |---|---|
-| Lecture 1: Final  Project Intro |
-| Lecture 2: Final Project Brainstorm | 
+| Lecture 1 | Final  Project Intro |
+| Lecture 2 | Final Project Brainstorm | 
 
 #### Week 9 - Design Studio A
 |   |  Topic  |
 |---|---|
-Lecture 1: Final Project Proposals Kickoff
-Lecture 2: Final Project Group Review - Working Session 
+| Lecture 1 | Final Project Proposals Kickoff
+| Lecture 2 | Final Project Group Review - Working Session 
 
 ### Week 10 - Design Studio B
 |   |  Topic  |
 |---|---|
-| Lecture 1: Final Project Progress Review |
-| Lecture 2: Special Topic: The Psychology of VR: Mel Slater and the “Three Illusion” theory: Place Illusion, Plausibility Illusion, and Embodiment Illusion | 
+| Lecture 1 | Final Project Progress Review |
+| Lecture 2 | Special Topic: The Psychology of VR: Mel Slater and the “Three Illusion” theory: Place Illusion, Plausibility Illusion, and Embodiment Illusion | 
 
 ### Week 11 - Design Studio C
 |   |  Topic  |
 |---|---|
-| Lecture 1: Final Project Progress Review |
-| Lecture 2: Special Topic: The Sounds of XR: Understanding the role of spatial audio in AR/VR |
+| Lecture 1 | Final Project Progress Review |
+| Lecture 2 | Special Topic: The Sounds of XR: Understanding the role of spatial audio in AR/VR |
 
 ### Week 12 - Design Studio D
 |   |  Topic  |
 |---|---|
-| Lecture 1: Final Project Progress Review |
-| Lecture 2: Special Topic: Human Perception: Understanding Light: Depth, Motion, Color & Touch |
+| Lecture 1 | Final Project Progress Review |
+| Lecture 2 | Special Topic: Human Perception: Understanding Light: Depth, Motion, Color & Touch |
 
 ### Week 13 - Design Studio E
 |   |  Topic  |
 |---|---|
-| Lecture 1: Final Project Progress Review |
-| Lecture 2: Special Topic: A Framework for Ethics & Privacy | 
+| Lecture 1 | Final Project Progress Review |
+| Lecture 2 | Special Topic: A Framework for Ethics & Privacy | 
 
 ### Week 14 - Finals Week
 |   |  Topic  |
