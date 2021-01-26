@@ -79,11 +79,10 @@ If you need any special accommodations or if circumstances arise that may affect
 #### Grade Allocation
 |            Assignment       | Percentage Value |
 |-----------------------------|------------------|
-| In-class Participation      |        5%        |
+| In-class Participation      |        10%       |
 | Discussion Posts            |        15%       |
 | Homework Assignments        |        40%       |
-| Midterm Exam                |        10%       |
-| Final Project               |        30%       |
+| Final Project               |        35%       |
 | Total                       |       100%       |
 
 #### Assignments & Projects
@@ -93,8 +92,8 @@ If you need any special accommodations or if circumstances arise that may affect
 | 02/xx/21          |    VR Demo Room                      |
 | 02/xx/21          |    Worldbuilding in Unity            |
 | 02/xx/21          |    Storyboarding & Paper Prototyping |
-| 02/xx/21          |    Interaction Prototype             |
-| 02/xx/21          |    Maquette Prototype                |
+| 02/xx/21          |    Interaction Prototype in Unity    |
+| 02/xx/21          |    Prototype in Social VR            |
 | 05/xx/21          |    Final Project                     |
 
 ---
