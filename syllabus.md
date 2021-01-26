@@ -32,7 +32,7 @@ By the end of this class students should be fluent in the major themes of augmen
 * What is the meaning of all the different acronyms including XR, AR, VR and MR? 
 * What are the limitations of current-generation platforms? How do we deal with major limitations like cybersickness?
 * How can we express complex ideas with low-to-medium fidelity prototypes? 
-* What are the elemental interaction techniques in VR? What is the gestural language of VR? What are the major differences between hand tracking (e.g. Oculus Quest) and controller input (e.g. most headsets)? How do we approach basic interactions like grabbing, throwing, and pointing? 
+* What are the elemental interaction techniques in VR? What is the gestural language of VR? What are the major differences between hand tracking (e.g. Oculus Quest) and controller input (e.g. most headsets)? How do we approach interaction design? 
 * What are the major components of a 3D environment, and how do we create a pipeline from content authoring, assembly, and publishing (e.g. Maya to Unity to the Oculus Store)?
 * What makes an XR experience interesting, fun, engaging, or immersive? How can we critically analyze the art, environment, interactions, and functionality of XR apps? 
 * How are terms like agency, embodiment, and presence used to evaluate immersive experiences? 
