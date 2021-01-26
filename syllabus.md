@@ -152,9 +152,9 @@ Lecture 2: Final Project Group Review - Working Session
 |F      | 70% and below |       Unacceptable       |
 
 #### Class Participation
-Contributions to class discussions and active participation in both individual and small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared (having completed assigned reading and writing) and ready to participate in class activities. This course is based on project-based learning through both solo and collaborative projects, and you are expected to contribute as a responsible member of our design community on an individual and group level. See the participation evaluation in the Grade Allocation table below for more information.
+Contributions to class discussions and active participation in both individual and small group work are essential to both the momentum of the course and the development of your ideas. This requires that you come to class prepared and ready to participate in class activities. This course is based on project-based learning through both solo and collaborative projects, and you are expected to contribute as a responsible member of our design community on an individual and group level. See the participation evaluation in the Grade Allocation table below for more information.
 
-You will be expected to spend at LEAST 4 to 6 hours (per week) outside of class meeting times on your assignments and projects. It is important for you to practice (after class) what has been covered during class so that you may raise any questions or problems at the next class session.
+You will be expected to spend at least 4 to 6 hours (per week) outside of class meeting times on your assignments and projects.
 
 If you need any special accommodations or if circumstances arise that may affect your participation, please talk to me as soon as possible.
 
