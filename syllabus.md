@@ -20,7 +20,7 @@ We will work to understand both the opportunities and challenges of virtual real
 
 The COVID-19 pandemic has accelerated the adoption of new technologies for social activities, productivity, and learning. We will examine the change this has brought about in the business and user experience of XR: both head mounted (i.e. VR headsets) and screen-based (desktop and mobile). In this class, we are actively participating as researchers and creators within a rapidly changing technology and media landscape. We are also humans living through a historically significant time. Acknowledging both realities, we will be documenting our experiences both diaristically and formally as we study and create XR experiences together in 2021. This will take the form of surveys, journaling, interviewing each other, and documenting our investigations together in social VR. This is a small class, which means we will form a close-knit community during the semester. I would like us to collectively decide how we might like to share this _meta-documentation_ or [_historicization_](https://en.wikipedia.org/wiki/Historicization) of our experiences through a number of possible outputs: towards publication in a XR journal, as a digital zine (you know I love zines), as an online environment, or as data towards future research. We will discuss further in class. 
 
-Internet-based social VR — including Facebook, the biggest player in the VR market currently — is fraught with user experience challenges: not limited to harrassment and abuse, discomfort, privacy and surveillance issues. Our goal in this class will be to learn about this and collectively understand how to make our own virtual space an adaptable, trusting, private, and engaging setting for learning & collaboration. We will also look at identifying and mitigating problematic behaviors from anonymous actors when designing new social experiences. Some time in the class will be dedicated to understanding how virtual reality crosses streams with other media like filmmaking and video games. Notably, we will look at historical and contemporary trends in non-VR massively multiplayer games including Minecraft, Fortnite, and Roblox and compare them to social VR applications like Altspace, RecRoom, VRChat, and more. 
+Internet-based social VR — including Facebook, the biggest player in the VR market currently — is fraught with user experience challenges: not limited to harrassment and abuse, discomfort, privacy and surveillance issues. Our goal in this class will be to learn about this and collectively understand how to make our own virtual space an adaptable, trusting, private, and engaging setting for learning & collaboration. Some time in the class will be dedicated to understanding how virtual reality crosses streams with other media like filmmaking, theatre, and video games. Notably, we will look at historical and contemporary trends in cinematic and theatrical VR, and non-VR massively multiplayer games including Minecraft, Fortnite, and Roblox.
 
 By the end of this class students should be fluent in the major themes of augmented and virtual reality, including several advanced topics like perception and ethics. Virtual and Augmented reality is a nascent medium with abundant connections (and dependencies) to other disciplines. No student is expected to master all aspects of designing & developing for XR within the scope of this course; however, this class is designed to instill a swath of practical knowledge and creative inspiration through reading, critical discussion, hands-on projects, and practice-based research. Students are expected to be self-motivated in exploring online learning resources (articles, guides, tutorials, etc) and experimenting with third-party AR/VR apps and tools. 
 
@@ -51,6 +51,24 @@ By the end of this class students should be fluent in the major themes of augmen
 |---|---|
 | Lecture 1 |  VR Through History & Contemporary Trends |
 | Lecture 2 |  Intro to Content Creation 101 & Content Ecosystem | 
+
+### Week 3 - Technical Tools
+|   |  Topic  |
+|---|---|
+| Lecture 1 |  Building VR Environments in Unity |
+| Lecture 2 |  VR & 3D: Materials, Lighting, Geometry, and Asset Formats | 
+
+### Week 4 - Social VR 
+|   |  Topic  |
+|---|---|
+| Lecture 1 | Social VR & Multiplayer Experiences + Avatars
+| Lecture 2 | Social VR & Interdisciplinary Use Cases
+
+### Week 5 - Design & Interaction: Part 1
+| Lecture 1 | Input Devices & Methodologies (Hand & Controller Tracking)
+| Lecture 2 | Affordances & User Experience Principles (Best Practices)
+
+
 
 ---
 
