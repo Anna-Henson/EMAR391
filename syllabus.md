@@ -13,9 +13,6 @@ Johnny Carson Center for Emerging Media Arts
 *This syllabus may be subject to change during the course.*
 
 ---
-## A Note about Time & VR Setup: 
-
-This class meets twice a week for an hour and twenty minutes. That's less than three hours per week of scheduled class time. I want to empasize to you the importance of coming to class on time with your hardware charged, connected to your computer, functioning and ready to go. If we are going to meet in Social VR, please go visit the virtual location early, familiarize yourself, so you can arrive on time to class. VR technology can be tricky, clunky, problematic, even for experts, and setup can easily overtake the time you had set aside to "get work done." So, if we spend 20-30 min per class getting everyone online, we'll cut our class time down significantly and it'll just be a parade of setup and teardown each week. Get your hardware and software ready to go early, and it'll be smooth(ish) sailing. That's when the real fun begins!  
 
 ## Course Structure
 
@@ -46,6 +43,10 @@ By the end of this class students should be fluent in the major themes of augmen
 * What makes an XR experience interesting, fun, engaging, or immersive? How can we critically analyze the art, environment, interactions, and functionality of XR apps? 
 * How are terms like agency, embodiment, and presence used to evaluate immersive experiences? 
 * How do connected experiences (social VR) factor into the big picture?
+
+## A Note About Time & VR Setup
+
+This class meets twice a week for one hour and twenty minutes. That's less than three hours per week of scheduled class time. I want to empasize the importance of coming to class on time with your controllers charged and headset connected. If we are going to meet in Social VR, please visit the virtual location early & familiarize yourself so you can arrive on time to class. The dance between computer and VR headset can be tricky, clunky, and problematic. Setup can easily overtake the time you had set aside to "get work done." So, if we spend 20-30 min per class getting everyone online, it will cut our class time down significantly and it will be a parade of setup and teardown each week. Leave enough time before class for hardware and software debugging so we might anticipate smooth sailing. That's when the real fun begins!  
 
 ## Class Schedule
 
@@ -88,8 +89,8 @@ By the end of this class students should be fluent in the major themes of augmen
 ### Week 7 - XR as a Creative Medium
 |   |  Topic  |
 |---|---|
-| Lecture 1 | Cinematic XR, XR in Fine Art & Performance |  
-| Lecture 2 | Prototyping AR using VR - Building XR in VR |
+| Lecture 1 | Cinematic XR + XR in Fine Art & Performance |  
+| Lecture 2 | Prototyping AR using VR |
 
 ### Week 8 - Final Project Intro
 |   |  Topic  |
@@ -97,17 +98,17 @@ By the end of this class students should be fluent in the major themes of augmen
 | Lecture 1 | Final  Project Intro |
 | Lecture 2 | Final Project Brainstorm | 
 
-#### Week 9 - Design Studio A
+### Week 9 - Design Studio A
 |   |  Topic  |
 |---|---|
 | Lecture 1 | Final Project Proposals Kickoff
-| Lecture 2 | Final Project Group Review - Working Session 
+| Activity | Final Project Group Review - Working Session 
 
 ### Week 10 - Design Studio B
 |   |  Topic  |
 |---|---|
 | Lecture 1 | Final Project Progress Review |
-| Lecture 2 | Special Topic: The Psychology of VR: Mel Slater and the “Three Illusion” theory: Place Illusion, Plausibility Illusion, and Embodiment Illusion | 
+| Lecture 2 | Special Topic: The Psychology of VR: Mel Slater and the “Three Illusion” theory | 
 
 ### Week 11 - Design Studio C
 |   |  Topic  |
@@ -132,7 +133,6 @@ By the end of this class students should be fluent in the major themes of augmen
 |---|---|
 | Activity | Final Project Presentation & Demo Day 1 |
 | Activity | Final Project Presentation & Demo Day 2 |
-
 
 ---
 
@@ -168,27 +168,23 @@ If you need any special accommodations or if circumstances arise that may affect
 | Total                       |       100%       |
 
 #### Assignments & Projects
-|            Due Date          | Assignment |
+|            Due Date             |     Assignment   |
 |---------------------------------|------------------|
-| 02/xx/21          |    Unity + VR Technical Setup        |
-| 02/xx/21          |    VR Demo Room                      |
-| 02/xx/21          |    Worldbuilding in Unity            |
-| 02/xx/21          |    Storyboarding & Paper Prototyping |
-| 02/xx/21          |    Interaction Prototype in Unity    |
-| 02/xx/21          |    Prototype in Social VR            |
-| 05/xx/21          |    Final Project                     |
+| 01/30/21     |    Unity + VR Technical Setup        |
+| TBA          |    VR Demo Room                      |
+| TBA          |    Worldbuilding in Unity            |
+| TBA          |    Storyboarding & Paper Prototyping |
+| TBA          |    Interaction Prototype in Unity    |
+| TBA          |    Prototype in Social VR            |
+| TBA          |    Final Project                     |
 
 ---
 
 ## Class Resources
 
-#### Materials
-
-TBD
-
 #### Discord
 
-TBD
+_See UNL Canvas for Invite_
 
 ---
 
