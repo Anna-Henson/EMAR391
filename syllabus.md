@@ -56,16 +56,16 @@ This class meets twice a week for one hour and twenty minutes. That's less than 
 | Lecture 1 |  Class Overview & Intro |
 | Lecture 2 | The Challenges of VR & Current Technology | 
 
-### Week 2 - Background
+### Week 2 - Worldbuilding Tools
+|   |  Topic  |
+|---|---|
+| Lecture 1 |  Intro to Content Creation 101 & Content Ecosystem |
+| Lecture 2 |  Building VR Environments in Unity |
+
+### Week 3 - Technical Tools + Background
 |   |  Topic  |
 |---|---|
 | Lecture 1 |  VR Through History & Contemporary Trends |
-| Lecture 2 |  Intro to Content Creation 101 & Content Ecosystem | 
-
-### Week 3 - Technical Tools
-|   |  Topic  |
-|---|---|
-| Lecture 1 |  Building VR Environments in Unity |
 | Lecture 2 |  VR & 3D: Materials, Lighting, Geometry, and Asset Formats | 
 
 ### Week 4 - Social VR 
